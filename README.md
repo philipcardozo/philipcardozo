@@ -6,25 +6,6 @@ I build systems that turn mathematical structure into edge — from regime-aware
 
 ---
 
-### Selected Work
-
-**[RAMPA](https://github.com/FelipeCardozo0/RAMPA)** — Regime-Aware Multi-Agent Portfolio Allocator  
-Multi-agent system combining PPO-based reinforcement learning with HMM regime classification, eigen-portfolio construction via spectral decomposition of the return covariance matrix, and a volatility oracle built on rough Bergomi dynamics (fractional kernel with Hurst exponent estimation). Agents specialize by regime; a meta-learner allocates across them.
-
-**[Regime-Volatility-Arbitrage](https://github.com/FelipeCardozo0/Regime-Volatility-Arbitrage)** — Fourier-Based Pricing & Volatility Surface Modeling  
-Characteristic function pricing under Heston and CGMY via FFT and fractional FFT methods. Implements Dupire local volatility recovery, variance swap replication, and volatility risk premium extraction. Calibration against SPX options surfaces.
-
-**[Azure-HFT](https://github.com/FelipeCardozo0/Azure-HFT)** — Low-Latency Trading Infrastructure  
-Event-driven execution engine deployed on Azure with Redis-backed tick streaming, FIX protocol integration, and sub-millisecond order routing. LightGBM alpha signals consumed in real time by a risk-managed execution layer.
-
-**[NEXUS](https://github.com/FelipeCardozo0/nexus-underwriting)** — AI-Powered Credit Underwriting Engine  
-Knowledge graph–based credit assessment system targeting structured credit products (FIDCs, ABS). Integrates alternative data pipelines with graph neural networks for borrower risk scoring and portfolio-level loss distribution modeling.
-
-**[Veratori](https://github.com/FelipeCardozo0/veratori)** — Computer Vision for Restaurant Inventory  
-YOLOv8 object detection with LiDAR depth sensing for real-time inventory quantification. Edge-deployed on NVIDIA Jetson; RL-based reorder policy optimization. In production use.
-
----
-
 ### What I work with
 
 **Math & Finance:** Stochastic calculus, rough volatility, martingale pricing, PDE methods (Fourier series, heat equation), regime-switching models, portfolio optimization, risk-neutral measure theory  
@@ -42,4 +23,4 @@ YOLOv8 object detection with LiDAR depth sensing for real-time inventory quantif
 
 ---
 
-<sub>focardo@emory.edu · [LinkedIn](https://linkedin.com/in/felipecardozo-)</sub>
+<[philipcardozo.com](philipcardozo.com) sub>focardo@emory.edu · [LinkedIn](https://linkedin.com/in/felipecardozo-)</sub>
