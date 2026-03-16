@@ -23,4 +23,4 @@ I build systems that turn mathematical structure into edge — from regime-aware
 
 ---
 
-<[philipcardozo.com](philipcardozo.com) sub>focardo@emory.edu · [LinkedIn](https://linkedin.com/in/felipecardozo-)</sub>
+<sub>[philipcardozo.com](https://philipcardozo.com) · focardo@emory.edu · [LinkedIn](https://linkedin.com/in/felipecardozo-)</sub>
