@@ -1,4 +1,4 @@
-# Felipe Cardozo
+# Philip Cardozo
 
 **Quantitative researcher and engineer** at the intersection of stochastic modeling, reinforcement learning, and market microstructure. Undergraduate at Emory University studying Human-Machine Interaction with concentrations in quantitative finance, computer science, and applied mathematics.
 
